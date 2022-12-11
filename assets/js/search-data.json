@@ -13,17 +13,6 @@
   
     
         ,"post1": {
-            "title": "Unit 3.14 Libraries Lesson",
-            "content": "print(&quot;hello world&quot;) . hello world .",
-            "url": "https://emaad-mir.github.io/Nebuchadnezzar/week-13/big-idea-3/2022/12/10/3.14-Libraries.html",
-            "relUrl": "/week-13/big-idea-3/2022/12/10/3.14-Libraries.html",
-            "date": " • Dec 10, 2022"
-        }
-        
-    
-  
-    
-        ,"post2": {
             "title": "Unit 3 Sections 14-15 Homework",
             "content": "Create a program that asks the user for a day and then gives them a distance in days between that day and another random day in the year. We have provided you with a possible starter, but you are welcome to change it up if you would like. . from datetime import date import random days_dictionary = { 1: 31, 2: 28, 3: 31, 4: 30, 5: 31, 6: 30, 7: 31, 8: 31, 9: 30, 10: 31, 11: 30, 12: 31, } # expected output shown below (or something similar) . Input a day 13 Input a month 7 Input a year 2010 user day: 07/13/2010 random day: 09/11/2010 The number of days between the given range of dates is: 60 .",
             "url": "https://emaad-mir.github.io/Nebuchadnezzar/week-13/big-idea-3/2022/12/03/libraries-hw.html",
